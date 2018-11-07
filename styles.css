@@ -1,0 +1,28 @@
+.wowowow {
+    font-size: 55px;
+}
+body {
+    background-color: pink;
+    font-family: 'Lobster', cursive;
+    text-align: center;
+}
+
+.movie {
+    color: yellow;
+}
+
+.artist {
+    color: blue;
+    
+}
+.food {
+    color: red;
+    
+}
+.dressed {
+    color: purple;
+}
+
+img {
+    width: 400px;   
+}
